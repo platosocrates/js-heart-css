@@ -1,9 +1,13 @@
 repo: "js-heart-css"
-canvasCourse: "467503"
-canvasAssignment: "4202550"
 
 naming: true
-commits: 1
+restrictFileTypes: true
+liveWebsite: true
+
+git:
+  numCommits: 1
+  allCommitted: true
+  allSynced: true
 
 html:
   - path: "index.html"
@@ -18,6 +22,7 @@ js:
     valid: true
     bestPractices: true
     search:
+      - '\$\('
       - 'addClass\('
       - 'removeClass\('
       - 'show\('

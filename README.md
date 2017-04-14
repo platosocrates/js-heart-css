@@ -1,11 +1,12 @@
-# JS ❤︎ CSS
-
-- Approx. completion time: **1 hour**
-- Deliverables: **1 HTML file, 1 CSS file, 1 JS file, images**
-
+---
+summary: 'Use Javascript & jQuery to select elements in an HTML file and manipulate their CSS.'
+time: '1 hour'
+deliverables: '1 HTML file, 1 CSS file, 1 JS file, images'
 ---
 
-**Use Javascript & jQuery to select elements in an HTML file and manipulate their CSS.**
+# JS ❤︎ CSS
+
+## Overview
 
 - *Fork this repository.*
 - In the `main.js` file, write code to perform the following tasks on the HTML:
@@ -21,7 +22,7 @@
   10. Select `<dl>` — add `.classification`
   11. Select the `<dt>` tags — remove `.big-label`
   12. Select the last item in the list — make it visible
-- **DO NOT change the `index.html`.**
+- **DO NOT change the `index.html` file’s code.**
 - **DO NOT change the CSS.**
 - *Run it through Markbot and make sure it passes all the checks.*
 
@@ -31,10 +32,10 @@
 
 Visually match the images in the “screenshots” folder.
 
-- [Final screenshots in the “screenshots” folder.](screenshots)
+- Final screenshots in the “screenshots” folder.
 
 ---
 
 ## Hand in
 
-Drop this folder into your Markbot application. Make sure to fix all the errors. And submit to Canvas using Markbot.
+Drop this folder into your Markbot application. Make sure to fix all the errors. And submit online.
